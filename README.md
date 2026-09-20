@@ -8,6 +8,40 @@
 
 ---
 
+## 📽️ Full Application Video Recording
+
+![Platform Demo](screenshots/platform_demo.webp)
+
+---
+
+## 📸 Screenshots & Feature Walkthrough
+
+### 1. Enterprise Header & Live Telemetry KPIs
+![Header & Live Telemetry KPIs](screenshots/header_kpis.png)
+*Real-time Fraud Exposure ($3.42M), Liquidity Coverage Ratio (LCR: 114.8%), Basel Capital Adequacy Ratio (CAR: 14.2%), active SAR filings, and live persona switcher.*
+
+### 2. Governed AI Copilot & Reasoning Engine
+![Governed AI Copilot Reasoning](screenshots/copilot_reasoning.png)
+*Natural language banking query console featuring 4-step explainable reasoning steps, confidence rating (98.4%), extracted telemetry items, FinCEN AML citations, and draft SAR launcher.*
+
+### 3. Real-Time Risk Telemetry Stream & Severity Filters
+![Real-Time Risk Stream & Severity Filters](screenshots/telemetry_grid.png)
+*Streaming transaction monitoring cross-border wire transfers, trade finance drawdowns, and card advances filtered by `Critical` severity with deep telemetry inspectors.*
+
+### 4. Basel III Liquidity & Credit Risk Stress Simulator
+![Basel III Liquidity Stress Simulator](screenshots/liquidity_stress.png)
+*Interactive stress testing sliders for corporate deposit outflow %, NPL credit shock %, and wholesale haircut % with real-time recalculation of LCR and Tier 1 capital ratios.*
+
+### 5. Regulatory Policy RAG Hub (FinCEN, Basel III, OCC, RBI)
+![Regulatory Policy RAG Knowledge Hub](screenshots/policy_rag.png)
+*Fused text knowledge base mapping live banking telemetry directly to auditable regulatory policy clauses (FinCEN AML § 1010.311, Basel III LCR Art 412, OCC TBML Advisory).*
+
+### 6. Signal-to-Report Audit Studio & Printable SAR Form 111
+![Audit Studio SAR Form Output](screenshots/audit_sar_form.png)
+*Official Suspicious Activity Report (SAR Form 111) output featuring `AUDIT STAMP: VERIFIED & SEALED`, telemetry breakdown, narrative exporter, and print/save PDF capability.*
+
+---
+
 ## 🚀 Key Features
 
 - **Governed Natural Language AI Copilot**: Ask natural language risk and compliance questions across streaming ledger telemetry, credit/liquidity metrics, and regulatory policies. Outputs step-by-step reasoning chains with confidence ratings and evidence citations.
